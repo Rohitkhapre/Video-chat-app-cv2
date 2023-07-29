@@ -1,8 +1,7 @@
-# LW-Date-10-06-2021-Task-03
+ Live Streaming Video Chat App without voice using cv2 module of Python
 # link  full article
-https://patelsandeep88.medium.com/create-live-streaming-video-chat-app-without-voice-using-cv2-module-of-python-711bf86829d7
-# Create Live Streaming Video Chat App without voice using cv2 module of Python
-![a](https://user-images.githubusercontent.com/78929192/121529859-6fe26300-ca1a-11eb-906a-7960d7ebfd15.PNG)
+https://www.linkedin.com/posts/rohit-khapre_create-live-streaming-video-chat-app-without-activity-7090966956576546816-ATMC?utm_source=share&utm_medium=member_desktop
+
 
 
 Socket Programming in Python
