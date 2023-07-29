@@ -1,5 +1,5 @@
  Live Streaming Video Chat App without voice using cv2 module of Python
-# link  full article
+# Link  full article
 https://www.linkedin.com/posts/rohit-khapre_create-live-streaming-video-chat-app-without-activity-7090966956576546816-ATMC?utm_source=share&utm_medium=member_desktop
 
 
